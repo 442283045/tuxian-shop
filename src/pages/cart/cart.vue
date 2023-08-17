@@ -1,11 +1,9 @@
 <script setup lang="ts">
-//
+import Cart from '@/components/cart.vue'
 </script>
 
 <template>
-  <view class="cart">cart</view>
+    <Cart></Cart>
 </template>
 
-<style lang="scss">
-//
-</style>
+<style lang="scss" scoped></style>
